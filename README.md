@@ -1,4 +1,4 @@
-![Header](./header.png)
+
 <h1 align="center">Hi 👋, I'm Karishma Sharma</h1>
 <h3 align="center">A Passionate and Curious Web Developer: Solving Problems with Technological Ingenuity</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
